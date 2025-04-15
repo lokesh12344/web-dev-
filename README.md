@@ -1,8 +1,4 @@
-Below is the final version of the README.md that uses badges and in‐line text icons (emojis) rather than external screenshots. You can copy and paste this text into your README.md file.
 
----
-
-```markdown
 # 🍽️ Culinary Canvas | Modern Recipe Sharing Platform
 
 <div align="center">
